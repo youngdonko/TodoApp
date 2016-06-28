@@ -38,7 +38,7 @@ The following additional features are implemented:
 
 Video Walkthrough
 
-
+![todoapp](images/todoapp.gif)
 
 Notes
 N/A
