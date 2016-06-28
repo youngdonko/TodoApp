@@ -7,6 +7,7 @@
 ###### Time spent: 3 hours spent in total
 
 
+---
 User Stories
 
 The following required functionality is completed:
@@ -17,12 +18,12 @@ The following required functionality is completed:
 
 •	[x] User can persist todo items and retrieve them properly on app restart
 
-
+---
 ###### Video Walkthrough
 
 ![todoapp](images/todoapp.gif)
 
-
+---
 License
 Copyright 2016 Young Don Ko
 
